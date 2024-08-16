@@ -16,7 +16,9 @@ Yep, and i welcome you! If you want to talk with me, and help me on some stuff, 
 
 # Social Medias
 [YouTube](https://www.youtube.com/@watcl/)
+              -
 Discord - My nick is op3n
+            - 
 [GitHub](https://github.com/op3ny)
 
 # Thanks!

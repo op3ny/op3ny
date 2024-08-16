@@ -15,9 +15,9 @@ With this "boom" of AI, that's a thing that i liked a lot to study that. So, pro
 Yep, and i welcome you! If you want to talk with me, and help me on some stuff, you can contact me on Discord (Discord nick: op3n)
 
 # Social Medias
-(YouTube)[https://www.youtube.com/@watcl/]
+[YouTube](https://www.youtube.com/@watcl/)
 Discord - My nick is op3n
-(GitHub)[https://github.com/op3ny]
+[GitHub](https://github.com/op3ny)
 
 # Thanks!
 Thanks for read this, and now, you can discover my GitHub, and you know all my history! Welcome!

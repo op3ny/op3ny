@@ -27,13 +27,10 @@ Yep, and i welcome you! If you want to talk with me, and help me on some stuff, 
 
 # Social Medias
 
-YouTube
 [YouTube](https://www.youtube.com/@watcl/)
 ---
-Discord
 Discord - My nick is op3n
 ---
-GitHub
 [GitHub](https://github.com/op3ny)
 ---
 

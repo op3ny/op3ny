@@ -1,5 +1,5 @@
 # About Me
-Hello! My name is **Humberto**, but my nick on Discord is **op3n**!  
+Hey! I'm op3n!  
 Since I was 4, I started my journey in technology. At 6, I began learning programming.  
 When I was 8, I started to explore everything about technology, servers, Linux, and more.  
 At 9, I learned **Python**, **Bash**, and **.cmd / .bat** scripts!  

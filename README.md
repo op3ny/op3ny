@@ -24,7 +24,7 @@ Yep, and I welcome you! If you want to talk with me or help out on some projects
 ---
 
 # Stats
-[![op3ny's GitHub stats](https://github-readme-stats.vercel.app/api?username=op3ny)](https://github.com/anuraghazra/github-readme-stats)
+[![op3ny's GitHub stats](https://github-readme-stats.vercel.app/api?username=op3ny&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

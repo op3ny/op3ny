@@ -32,7 +32,6 @@ Yep, and I welcome you! If you want to talk with me or help out on some projects
 
 - [YouTube](https://www.youtube.com/@watcl/) 🎥  
 - **Discord** - My nick is **op3n**  
-- [GitHub](https://github.com/op3ny) 💻
 
 ---
 

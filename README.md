@@ -1,4 +1,4 @@
-# Thaís — sobre mim
+# Introdução
 
 Eu me chamo Thaís (op3n/op3ny). Eu não vejo tecnologia, filosofia e política como coisas separadas, pra mim, tudo isso é só parte de um mesmo sistema maior: pessoas tentando entender, construir e controlar o mundo ao redor delas.
 

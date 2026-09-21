@@ -1,6 +1,6 @@
 # Introdução
 
-Eu me chamo Thaís (op3n/op3ny). Eu não vejo tecnologia, filosofia e política como coisas separadas, pra mim, tudo isso é só parte de um mesmo sistema maior: pessoas tentando entender, construir e controlar o mundo ao redor delas.
+Eu me chamo [Thaís (op3n/op3ny)](https://thais.fyi). Eu não vejo tecnologia, filosofia e política como coisas separadas, pra mim, tudo isso é só parte de um mesmo sistema maior: pessoas tentando entender, construir e controlar o mundo ao redor delas.
 
 Esse espaço é onde eu organizo essas ideias. Não como verdades absolutas, mas como reflexões em movimento. Tudo que eu escrevo aqui parte de algo real: experiências, projetos, frustrações, curiosidade. É quase como um log contínuo de pensamento.
 
